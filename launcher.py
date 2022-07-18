@@ -11,9 +11,9 @@ from telethon.tl.functions.contacts import ResolveUsernameRequest
 from telethon.tl.types import ChannelParticipantsSearch, InputChannel
 
 # First you need create app on https://my.telegram.org
-api_id = 13405022
-api_hash = '5011110aaa7c9d7bece77c73c4b46d56'
-phone = '+79082164344'
+api_id = 0
+api_hash = ''
+phone = ''
 limit = 100
 
 
